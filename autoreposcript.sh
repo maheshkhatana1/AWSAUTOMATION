@@ -2,7 +2,7 @@
 
 # GitHub credentials
 USERNAME="maheshkhatana1"
-REPO_NAME="MyPortfolio"
+REPO_NAME="MyPortfolio" #we can change file name here
 ACCESS_TOKEN="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"
 
 # List of files to be uploaded
